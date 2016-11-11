@@ -1,0 +1,6 @@
+2016/01/26 21:07:00: ServerStarted: Unknown_Computer_98.204.217.13_00729758 -All orders with status=1, set executioner=none
+2016/01/26 21:07:01: Fetched order ObjectID:LmnipbHsko, charge_amount:73.28
+2016/01/26 21:08:52: Completed Order with sculpteo_id:S2CMYDBD   (StripeChargeAmount - SculpteoCost - CCCost) 73.28 - 47.54 - 2.28 = 23.46(Actual Profit)
+Actual---- Total_Cost= 47.54 ,         All-Item-Print-Cost= 41.04, Shipping= 6.50, Tax= 0
+-------------------------------------
+2016/01/26 21:17:09: ServerStarted: Unknown_Computer_98.204.217.13_00700648 -No orders found with status=1

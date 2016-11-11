@@ -1,0 +1,11 @@
+2016/01/02 16:00:20: ServerStarted: Unknown_Computer_98.204.217.13_00829248 -No orders found with status=1
+2016/01/02 16:02:42: ServerStarted: Unknown_Computer_98.204.217.13_00873722 -All orders with status=1, set executioner=none
+2016/01/02 16:02:44: Fetched order ObjectID:rHAAI1l0XX, charge_amount:130.68
+2016/01/02 16:02:50: Completed Order with sculpteo_id:W2QJW6U6   (StripeChargeAmount - SculpteoCost - CCCost) 130.68 - 83.58 - 3.83 = 43.27(Actual Profit)
+Actual---- Total_Cost= 83.58 ,         All-Item-Print-Cost= 77.08, Shipping= 6.50, Tax= 0
+-------------------------------------
+2016/01/02 16:04:11: ServerStarted: Unknown_Computer_98.204.217.13_00476299 -All orders with status=1, set executioner=none
+2016/01/02 16:04:12: Fetched order ObjectID:rHAAI1l0XX, charge_amount:130.68
+2016/01/02 16:04:16: Completed Order with sculpteo_id:DDJPVNBD   (StripeChargeAmount - SculpteoCost - CCCost) 130.68 - 83.58 - 3.83 = 43.27(Actual Profit)
+Actual---- Total_Cost= 83.58 ,         All-Item-Print-Cost= 77.08, Shipping= 6.50, Tax= 0
+-------------------------------------

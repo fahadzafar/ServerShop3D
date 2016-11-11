@@ -1,0 +1,4 @@
+2016/01/27 12:32:49: Fetched order ObjectID:gpQpX4GxiU, charge_amount:123.02
+2016/01/27 12:34:21: Completed Order with sculpteo_id:YFGH55S6   (StripeChargeAmount - SculpteoCost - CCCost) 123.02 - 78.25 - 3.62 = 41.15(Actual Profit)
+Actual---- Total_Cost= 78.25 ,         All-Item-Print-Cost= 71.75, Shipping= 6.50, Tax= 0
+-------------------------------------

@@ -1,0 +1,8 @@
+2016/01/28 00:00:01: ServerStarted: Unknown_Computer_98.204.217.13_00978266 -No orders found with status=1
+2016/01/28 00:00:18: ServerStarted: Unknown_Computer_98.204.217.13_00498328 -No orders found with status=1
+2016/01/28 00:00:40: ServerStarted: Unknown_Computer_98.204.217.13_00743023 -All orders with status=1, set executioner=none
+2016/01/28 00:00:40: Fetched order ObjectID:gpQpX4GxiU, charge_amount:123.02
+2016/01/28 00:00:48: Completed Order with sculpteo_id:KUQE243Q   (StripeChargeAmount - SculpteoCost - CCCost) 123.02 - 78.25 - 3.62 = 41.15(Actual Profit)
+Actual---- Total_Cost= 78.25 ,         All-Item-Print-Cost= 71.75, Shipping= 6.50, Tax= 0
+-------------------------------------
+2016/01/28 00:01:22: ServerStarted: Unknown_Computer_98.204.217.13_00757625 -No orders found with status=1

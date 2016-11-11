@@ -1,0 +1,7 @@
+2016/01/27 23:58:13: ServerStarted: Unknown_Computer_98.204.217.13_00970681 -No orders found with status=1
+2016/01/27 23:58:34: Fetched order ObjectID:GpTyK6GVyL, charge_amount:15.72
+2016/01/27 23:58:43: ServerStarted: Unknown_Computer_98.204.217.13_00287499 -All orders with status=1, set executioner=none
+2016/01/27 23:58:43: Fetched order ObjectID:GpTyK6GVyL, charge_amount:15.72
+2016/01/27 23:58:47: Completed Order with sculpteo_id:9HM85VBA   (StripeChargeAmount - SculpteoCost - CCCost) 15.72 - 11.95 - 0.72 = 3.05(Actual Profit)
+Actual---- Total_Cost= 11.95 ,         All-Item-Print-Cost= 5.45, Shipping= 6.50, Tax= 0
+-------------------------------------
