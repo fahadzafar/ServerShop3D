@@ -14,6 +14,13 @@ We always want to put our own personal touch on things, so why cant we do it wit
 
 The design doc for Shop3D and its server can be seen [here](https://drive.google.com/open?id=0BzkvMWM-w80JZFg1V2V0bnh1ZzQ).
 
+The core of this order placement can be seen below which goes through about 15 steps to place an order with a customized 3D model per order,
+https://github.com/fahadzafar/ServerShop3D/blob/master/src/org/shop3d/server/main/WorkerThread_FulfillOrder.java
+
+
+
+
+
 For the Parse table that stores the modelsd see [here](https://drive.google.com/open?id=0BzkvMWM-w80JSDMxYVZ3ZmZ0QTA) and [here](https://drive.google.com/open?id=0BzkvMWM-w80JSnRsbVhEZG1la2c)
 
 For all model categories see [here](https://drive.google.com/open?id=0BzkvMWM-w80JUm1wQTVfRGd3MGc)
